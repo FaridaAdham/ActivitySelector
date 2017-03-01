@@ -1,0 +1,6 @@
+c:\users\farida adham\documents\visual studio 2015\Projects\greedy_act_selector\greedy_act_selector\bin\Debug\greedy_act_selector.exe.config
+c:\users\farida adham\documents\visual studio 2015\Projects\greedy_act_selector\greedy_act_selector\bin\Debug\greedy_act_selector.exe
+c:\users\farida adham\documents\visual studio 2015\Projects\greedy_act_selector\greedy_act_selector\bin\Debug\greedy_act_selector.pdb
+c:\users\farida adham\documents\visual studio 2015\Projects\greedy_act_selector\greedy_act_selector\obj\Debug\greedy_act_selector.csprojResolveAssemblyReference.cache
+c:\users\farida adham\documents\visual studio 2015\Projects\greedy_act_selector\greedy_act_selector\obj\Debug\greedy_act_selector.exe
+c:\users\farida adham\documents\visual studio 2015\Projects\greedy_act_selector\greedy_act_selector\obj\Debug\greedy_act_selector.pdb
